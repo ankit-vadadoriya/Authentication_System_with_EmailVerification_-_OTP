@@ -1,4 +1,4 @@
-# 🔐 Authentication System with Email Verification & OTP (MERN Stack)
+# 🔐 Authentication System with Email Verification & OTP
 
 This is a full-stack authentication system built with React (Vite) on the frontend and Spring Boot on the backend. 
 It features:
