@@ -49,3 +49,8 @@ User clicks "Forgot Password"
 Receives an OTP to their email
 
 Enters the OTP and sets a new password
+
+https://github.com/user-attachments/assets/393802de-b0ca-429e-a07a-d9c376c28cf1
+
+
+
