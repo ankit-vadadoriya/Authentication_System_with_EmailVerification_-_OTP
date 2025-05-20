@@ -22,7 +22,7 @@ It features:
 ## 🛠 Tech Stack
 ### Frontend (React + Vite)
 - React.js
-- Tailwind CSS
+- Bootstrap 5
 - Axios
 - Toast notifications
 
