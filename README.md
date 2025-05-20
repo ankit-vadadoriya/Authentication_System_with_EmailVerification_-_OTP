@@ -27,7 +27,7 @@ It features:
 - Toast notifications
 
 ### Backend (Java + Spring Boot)
-- Core Java
+- Java
 - Spring Boot (REST APIs)
 - Spring Security
 - Java Mail Sender (for OTP emails)
